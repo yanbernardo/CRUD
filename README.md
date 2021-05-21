@@ -1,6 +1,6 @@
 # CRUD
 
-Trabalho da faculdade sobre desenvolvimento de sistemas seguindo os requisitos abaixo:
+Trabalho da faculdade sobre desenvolvimento de sistemas, seguindo as orientações e requisitos abaixo:
 
 •	efetuar o CRUD de Clientes. 
 
